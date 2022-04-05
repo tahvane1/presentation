@@ -1,6 +1,6 @@
 bokeh
 rise
-sklearn
+scikit-learn
 numpy
 pandas
 matplotlib
