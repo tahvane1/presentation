@@ -1,2 +1,6 @@
 bokeh
 rise
+sklearn
+numpy
+pandas
+matplotlib
