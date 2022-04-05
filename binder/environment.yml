@@ -5,6 +5,7 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
+  - scikit-learn
   - bokeh
   - rise
   - pip:
