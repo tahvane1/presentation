@@ -1,6 +1,0 @@
-bokeh
-rise
-scikit-learn
-numpy
-pandas
-matplotlib
