@@ -2,9 +2,3 @@ jupyter contrib nbextension install --user
 jupyter nbextension enable splitcell/splitcell
 jupyter nbextension enable hide_input_all/main
 jupyter nbextension enable hide_input/main
-pip install hide_code
-jupyter nbextension install --py hide_code
-jupyter nbextension enable --py hide_code
-jupyter serverextension enable --py hide_code
-pip install hide_code[lab]
-jupyter lab build
